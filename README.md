@@ -9,9 +9,7 @@ Me llamo Jesús Rosas y así como tu, me encanta la tecnología y todo lo que ti
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhechus&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️frase aleatoria
+### ✍️algunas frases
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Memes random
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
