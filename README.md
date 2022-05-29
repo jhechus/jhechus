@@ -12,7 +12,6 @@ Me llamo Jesús Rosas y así como tu, me encanta la tecnología y todo lo que ti
 ### ✍️frase aleatoria
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Meme aleatorio
+### 😂Memes random
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhechus&show_icons=true&locale=en&layout=compact" alt="jhechus" /></p>
